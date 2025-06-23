@@ -1,9 +1,14 @@
 # Who am I!
+
+<div style="float: left; margin-right: 10px;">
+  <img src="face.jpg" alt="My glorious face" width="100" />
+</div>
+
 I am Jules EVANS and I am currently doing a PhD at Irit.
 The title is "Energy-aware HPC Scheduling", that is to say I work with HPC cluster RJMSs (Resource and Job Management Software).
 I am trying to make them minimise energy consumption and carbon emissions rather than completion time.
 
-![My glorious face](./face.jpg)
+<div style="clear: both;"></div>
 
 ### Supervisors :
  - Georges DA COSTA
